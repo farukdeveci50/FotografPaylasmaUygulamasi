@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790831674909",
+    "project_id": "fotograf-paylasma-uygula-fd362",
+    "storage_bucket": "fotograf-paylasma-uygula-fd362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790831674909:android:c8be38ead5a3254c5e78f4",
+        "android_client_info": {
+          "package_name": "com.example.fotografpaylasmafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790831674909-2uecob2vq21rfjunbjtg7imq038u86va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcl-ukdXAUIrI_qcJa9ZMO2gTsSe_SJoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790831674909-2uecob2vq21rfjunbjtg7imq038u86va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
